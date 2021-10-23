@@ -1,6 +1,11 @@
 
-1. Startmenü mit verschiedenen Auswahlmöglichkeiten / Settings
-2. Setup Funktion die Feld erstellt und grundlegendes aufbaut
-2. Logic Funktion welche die Spielregeln überprüft und anschaut
-3. Input Funktion welche die Tastatureingaben verarbeitet
-4. Draw Funktion welche das Spielfeld neu zeichnet
+1. Startmenü mit verschiedenen Auswahlmöglichkeiten / Settings  // Max
+2. Setup Funktion die Feld erstellt und grundlegendes aufbaut // Gregor
+3. Logic Funktion welche die Spielregeln überprüft und anschaut // Laurin
+4. Input Funktion welche die Tastatureingaben verarbeitet // Gregor
+5. Draw Funktion welche das Spielfeld neu zeichnet 
+
+
+
+
+Parameter & Funktionen
