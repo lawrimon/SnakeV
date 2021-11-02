@@ -1,6 +1,6 @@
 # SnakeV
 
-Recreation of the retro game Snake in Risc-V Assembly.
+Recreation of the retro game Snake in RISC-V Assembly.
 
 
 ## Authors
