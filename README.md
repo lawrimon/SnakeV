@@ -1,11 +1,11 @@
-# CESP Programming Project Title
+# SnakeV
 
-Simple overview of use/purpose.
+Recreation of the retro game Snake in Risc-V Assembly.
 
 
 ## Authors
 
-Contributors names and contact info
+Gregor Boschmann, Laurin Tarta, Max Kiefer
 
 ## Demo Video
 
@@ -17,8 +17,6 @@ Replace -h3eH4ubuno in the this .md by your YT video
 
 An in-depth paragraph about your project and overview of use.
 
-
-
 ### How to run
 
 Specify which file need to be used to run your program:
@@ -26,13 +24,33 @@ e.g.
 run my_cool_program.asm in RARS
 
 ## Files
-Describe the content of each file of your application: e.g.
+Description of the content of each file of our application:
 
-src/main.c   # Main file of program
+### Main
 
-src/main.asm # compiled version of main.c for RV32IM
+src/global_constants.asm # values such as KEYBOARD_ADDRESS which are used in numerous contexts in our program
 
-src/featureA.asm # A specific feature called in main
+### Game Logic
+
+### User Interface
+
+src/user_interface/ui_controller.asm   # interface for handling the following ui fragments 
+
+src/user_interface/homescreen.asm   # draws the homescreen + keyboard logic
+
+src/user_interface/gameover.asm   # draws the gameover screen + keyboard logic
+
+src/user_interface/win.asm   # draws the win screen + keyboard logic
+
+src/user_interface/field.asm   # draws the playfield
+
+src/user_interface/load_bmp.asm   # loads a bitmap in 32bit XRGB format
+
+src/user_interface/readwordunaligned.asm   # necessary for functionality of load_bmp
+
+src/user_interface/img # directory for bitmap resources
+
+### Unittests
 
 test/test1.asm - test9.asm # 9 unit tests for featureA
 
