@@ -36,11 +36,11 @@ src/global_constants.asm # values such as KEYBOARD_ADDRESS which are used in num
 
 src/user_interface/ui_controller.asm   # interface for handling the following ui fragments 
 
-src/user_interface/homescreen.asm   # draws the homescreen + keyboard logic
+src/user_interface/homescreen.asm   # draws the homescreen + corresponding keyboard logic
 
-src/user_interface/gameover.asm   # draws the gameover screen + keyboard logic
+src/user_interface/gameover.asm   # draws the gameover screen +  corresponding keyboard logic
 
-src/user_interface/win.asm   # draws the win screen + keyboard logic
+src/user_interface/win.asm   # draws the win screen + corresponding keyboard logic
 
 src/user_interface/field.asm   # draws the playfield
 
