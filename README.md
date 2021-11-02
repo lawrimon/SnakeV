@@ -28,7 +28,7 @@ Description of the content of each file of our application:
 
 ### Main
 
-src/global_constants.asm # values such as KEYBOARD_ADDRESS which are used in numerous contexts in our program
+src/global_constants.asm # constant values which are used in numerous contexts in our program
 
 ### Game Logic
 
