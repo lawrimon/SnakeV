@@ -58,6 +58,9 @@ src/game_logic/turn.asm # platzhalter
 
 src/game_logic/platzhalter.asm # fruit funktion
 
+src/game_logic/platzhalter.asm # score funktion
+
+
 ### User Interface
 
 src/user_interface/ui_controller.asm   # interface for handling the following ui fragments 
