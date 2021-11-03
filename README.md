@@ -19,9 +19,13 @@ An in-depth paragraph about your project and overview of use.
 
 ### How to run
 
-Specify which file need to be used to run your program:
-e.g.
-run my_cool_program.asm in RARS
+Setup for your RARS environment to run our program:
+
+- Open the terminal in the src-directory and run RARS from there
+- Open and assemble src/main.asm in RARS
+- Connect the bitrmap display and keyboard to the program
+- Set the display address to 0x10040000 (heap) and its size 512x512
+- Run the program and have fun :)
 
 ## Files
 Description of the content of each file of our application:
