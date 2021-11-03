@@ -54,7 +54,7 @@ src/game_logic/verification.asm # Checking the gameborder for collisions
 
 src/game_logic/selfverification.asm  # checking if the head has a collisions with its tail
 
-src/game_logic/turn.asm # Führt eine Bewegung nach Oben/Unten/Reckts/Links aus
+src/game_logic/turn.asm # the snake does a movement to the right/left/top/bottom
 
 src/game_logic/platzhalter.asm # fruit funktion
 
