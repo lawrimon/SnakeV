@@ -32,7 +32,7 @@ Description of the content of each file of our application:
 
 ### Main
 
-src/main.asm # platzhalter
+src/main.asm # mainfile that starts the game
 
 src/global_constants.asm # constant values which are used in numerous contexts in our program
 
@@ -48,18 +48,15 @@ src/draw_functions/draw_snake.asm # platzhalter
 
 src/game_logic/convert_coord.asm # platzhalter
 
-src/game_logic/keyboard.asm # platzhalter
+src/game_logic/keyboard.asm # Taking the keyboard input and converting it into a direction
 
-src/game_logic/verification.asm # platzhalter
+src/game_logic/verification.asm # Checking the gameborder for collisions
 
-src/game_logic/selfverification.asm  # platzhalter
+src/game_logic/selfverification.asm  # checking if the head has a collisions with its tail
 
-src/game_logic/turn.asm # platzhalter
+src/game_logic/turn.asm # Führt eine Bewegung nach Oben/Unten/Reckts/Links aus
 
 src/game_logic/platzhalter.asm # fruit funktion
-
-src/game_logic/platzhalter.asm # score funktion
-
 
 ### User Interface
 
