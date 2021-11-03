@@ -32,21 +32,43 @@ Description of the content of each file of our application:
 
 ### Main
 
+src/main.asm # platzhalter
+
 src/global_constants.asm # constant values which are used in numerous contexts in our program
 
+### Draw Functions
+
+src/draw_functions/draw_pixel.asm # platzhalter
+
+src/draw_functions/draw_point.asm # platzhalter
+
+src/draw_functions/draw_snake.asm # platzhalter
+
 ### Game Logic
+
+src/game_logic/convert_coord.asm # platzhalter
+
+src/game_logic/keyboard.asm # platzhalter
+
+src/game_logic/verification.asm # platzhalter
+
+src/game_logic/selfverification.asm  # platzhalter
+
+src/game_logic/turn.asm # platzhalter
+
+src/game_logic/platzhalter.asm # fruit funktion
 
 ### User Interface
 
 src/user_interface/ui_controller.asm   # interface for handling the following ui fragments 
 
-src/user_interface/homescreen.asm   # draws the homescreen + corresponding keyboard logic
+src/user_interface/homescreen.asm   # loads the homescreen + corresponding keyboard logic
 
-src/user_interface/gameover.asm   # draws the gameover screen +  corresponding keyboard logic
+src/user_interface/gameover.asm   # loads the gameover screen + corresponding keyboard logic
 
-src/user_interface/win.asm   # draws the win screen + corresponding keyboard logic
+src/user_interface/win.asm   # loads the win screen + corresponding keyboard logic
 
-src/user_interface/field.asm   # draws the playfield
+src/user_interface/field.asm   # loads the playfield
 
 src/user_interface/load_bmp.asm   # loads a bitmap in 32bit XRGB format
 
