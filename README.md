@@ -38,15 +38,15 @@ src/global_constants.asm # constant values which are used in numerous contexts i
 
 ### Draw Functions
 
-src/draw_functions/draw_pixel.asm # platzhalter
+src/draw_functions/draw_pixel.asm # draws a pixel at given coordinate
 
-src/draw_functions/draw_point.asm # platzhalter
+src/draw_functions/draw_point.asm # draws a square at given coordinate (coordinate matches top left corner of the square)
 
-src/draw_functions/draw_snake.asm # platzhalter
+src/draw_functions/draw_snake.asm # draws inital snake from vector of coordinates
 
 ### Game Logic
 
-src/game_logic/convert_coord.asm # platzhalter
+src/game_logic/convert_coord.asm # converts coordinates from 64x64 to 512x512
 
 src/game_logic/keyboard.asm # taking the keyboard input and converting it into a direction
 
@@ -56,9 +56,9 @@ src/game_logic/selfverification.asm  # checking if the snake head collides with 
 
 src/game_logic/turn.asm # the snake does a movement to the right/left/top/bottom
 
-src/game_logic/fruit.asm # platzhalter
+src/game_logic/fruit.asm # generates random coordinate and draws point
 
-src/game_logic/grow_snake.asm # platzhalter
+src/game_logic/grow_snake.asm # increases length of snake by 1
 
 ### User Interface
 
