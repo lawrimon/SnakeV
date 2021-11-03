@@ -2,7 +2,6 @@
 
 Recreation of the retro game Snake in RISC-V Assembly.
 
-
 ## Authors
 
 Gregor Boschmann, Laurin Tarta, Max Kiefer
@@ -28,6 +27,7 @@ Setup for your RARS environment to run our program:
 - Run the program and have fun :)
 
 ## Files
+
 Description of the content of each file of our application:
 
 ### Main
@@ -79,7 +79,6 @@ src/user_interface/img # directory for bitmap resources
 ### Unittests
 
 test/test1.asm - test9.asm # 9 unit tests for featureA
-
 
 ## Test
 Screenshot that shows succedded (unit) tests 
