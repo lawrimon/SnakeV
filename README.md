@@ -48,15 +48,17 @@ src/draw_functions/draw_snake.asm # platzhalter
 
 src/game_logic/convert_coord.asm # platzhalter
 
-src/game_logic/keyboard.asm # Taking the keyboard input and converting it into a direction
+src/game_logic/keyboard.asm # taking the keyboard input and converting it into a direction
 
-src/game_logic/verification.asm # Checking the gameborder for collisions
+src/game_logic/verification.asm # checking the gameborder for collisions
 
-src/game_logic/selfverification.asm  # checking if the head has a collisions with its tail
+src/game_logic/selfverification.asm  # checking if the snake head collides with the tail
 
 src/game_logic/turn.asm # the snake does a movement to the right/left/top/bottom
 
 src/game_logic/platzhalter.asm # fruit funktion
+
+src/game_logic/platzhalter.asm # score funktion
 
 ### User Interface
 
