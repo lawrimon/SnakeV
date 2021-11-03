@@ -56,9 +56,9 @@ src/game_logic/selfverification.asm  # checking if the snake head collides with 
 
 src/game_logic/turn.asm # the snake does a movement to the right/left/top/bottom
 
-src/game_logic/platzhalter.asm # fruit funktion
+src/game_logic/fruit.asm # platzhalter
 
-src/game_logic/platzhalter.asm # score funktion
+src/game_logic/grow_snake.asm # platzhalter
 
 ### User Interface
 
