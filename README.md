@@ -22,7 +22,7 @@ Setup for your RARS environment to run our program:
 
 - Open the terminal in the src-directory and run RARS from there
 - Open and assemble src/main.asm in RARS
-- Connect the bitrmap display and keyboard to the program
+- Connect the bitmap display and keyboard to the program
 - Set the display address to 0x10040000 (heap) and its size to 512x512
 - Run the program and have fun :)
 
