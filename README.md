@@ -62,7 +62,7 @@ Description of the content of each file of our application:
 
 [`src/draw_functions/draw_pixel.asm`](src/draw_functions/draw_pixel.asm) # draws a pixel at given coordinate
 
-[`src/draw_functions/draw_point.asm`](src/draw_functions/draw_point.asm) # draws a square at given coordinate (coord matches top left corner of the square)
+[`src/draw_functions/draw_point.asm`](src/draw_functions/draw_point.asm) # draws a square at given coordinate (coord matches top left corner of square)
 
 [`src/draw_functions/draw_snake.asm`](src/draw_functions/draw_snake.asm) # draws inital snake from vector of coordinates
 
