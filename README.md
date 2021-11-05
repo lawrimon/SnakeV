@@ -1,6 +1,6 @@
-# SnakeV :snake:	
+# SnakeV :snake:
 
-Recreation of the retro game Snake in RISC-V Assembly.
+Recreation of the retro game Snake in RISC-V Assembly :desktop_computer:	
 
 ## Authors :family_man_man_boy:	
 
@@ -116,8 +116,8 @@ Description of the content of each file of our application:
 ## Tests :fire_extinguisher:	
 
 Expected console ouptput:
-- program is finished running ( 5 ) --> Test succeeded   
-- program is finished running (10) --> Test failed
+- program is finished running ( 5 ) :arrow_right:	 Test succeeded :heavy_check_mark:	  
+- program is finished running (10) :arrow_right:	 Test failed :x:	
 
 ### unittest_loadbmp
 
