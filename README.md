@@ -4,9 +4,9 @@ Recreation of the retro game Snake in RISC-V Assembly.
 
 ## Authors
 
-Gregor Boschmann
-Laurin Tarta
-Max Kiefer
+- Gregor Boschmann
+- Laurin Tarta
+- Max Kiefer
 
 ## Demo Video
 
