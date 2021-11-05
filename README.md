@@ -115,9 +115,9 @@ Description of the content of each file of our application:
 
 ## Tests :fire_extinguisher:	
 
-Expected console ouptput:
-- program is finished running ( 5 ) :arrow_right:	 Test succeeded :heavy_check_mark:	  
-- program is finished running (10) :arrow_right:	 Test failed :x:	
+Expected console ouptput:  
+:heavy_check_mark: program is finished running (5)     
+:x: program is finished running (10) 	
 
 ### unittest_loadbmp
 
