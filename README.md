@@ -80,7 +80,21 @@ src/user_interface/img # directory for bitmap resources
 
 ### Unittests
 
-test/test1.asm - test9.asm # 9 unit tests for featureA
+src/unittest/unittest_loadbmp.asm # test for load_bmp.asm
+
+src/unittest/unittest_readwordunaligned.asm # test for readwordunaligned.asm
+
+src/unittest/unittest_grow.asm # test for grow_snake.asm
+
+src/unittest/unittest_fruit.asm # test for fruit.asm
 
 ## Test
-Screenshot that shows succedded (unit) tests 
+
+unittest_loadbmp
+
+![unittest_loadbmp](https://user-images.githubusercontent.com/81292206/140516270-c372702c-664e-4f9a-837d-61d876522a5d.png)
+
+unittest_readwordunaligned
+
+![unittest_readwordunaligned](https://user-images.githubusercontent.com/81292206/140516452-2dc7ab6b-2513-47cf-bff7-469f84ca6ee2.png)
+
