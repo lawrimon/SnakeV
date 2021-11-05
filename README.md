@@ -8,11 +8,15 @@ Recreation of the retro game Snake in RISC-V Assembly.
 - Laurin Tarta
 - Max Kiefer
 
-## Demo Video
+## Media
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/-h3eH4ubuno/0.jpg)](http://www.youtube.com/watch?v=-h3eH4ubuno "Video Title")
+### Demo Video
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/lU9VKJT4uNE/0.jpg)](https://www.youtube.com/watch?v=lU9VKJT4uNE "SnakeV Demo")
 
 Replace -h3eH4ubuno in the this .md by your YT video
+
+### Presentation Video
 
 ## Description
 
