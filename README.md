@@ -90,11 +90,11 @@ src/unittest/unittest_fruit.asm # test for fruit.asm
 
 ## Test
 
-unittest_loadbmp
+### unittest_loadbmp
 
 ![unittest_loadbmp](https://user-images.githubusercontent.com/81292206/140516270-c372702c-664e-4f9a-837d-61d876522a5d.png)
 
-unittest_readwordunaligned
+### unittest_readwordunaligned
 
 ![unittest_readwordunaligned](https://user-images.githubusercontent.com/81292206/140516452-2dc7ab6b-2513-47cf-bff7-469f84ca6ee2.png)
 
