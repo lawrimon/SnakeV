@@ -10,9 +10,9 @@ Recreation of the retro game Snake in RISC-V Assembly :desktop_computer:
 
 ## Media :movie_camera:	
 
-### Demo Video
+### Tutorial Video
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/lU9VKJT4uNE/0.jpg)](https://www.youtube.com/watch?v=lU9VKJT4uNE "SnakeV Demo")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/lU9VKJT4uNE/0.jpg)](https://www.youtube.com/watch?v=lU9VKJT4uNE "SnakeV Tutorial")
 
 ### Presentation Video
 
