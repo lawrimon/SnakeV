@@ -18,9 +18,20 @@ Recreation of the retro game Snake in RISC-V Assembly.
 
 ## Description :books:	
 
-In this hand-crafted version of the retro classic Snake the marvelous journey of the player starts in a minimalistic pixel art homescreen. There he has the opportunity to choose between playing a game or leaving the program (why tho?). In addition to the standard Snake ruleset we included some more functionalities to add some spice to the game and increase the fun factor. With every collected fruit the snake becomes faster and faster. Only well experienced players are able to collect all thirty fruits and win this nerve-wracking game.  
-`W` `A` `S` `D` are used for movement and the head of the snake points to the right side at the beginning of each round. Moving into the opposite direction of your current one will lead to death (snakes cannot move into their own throat). 
- 
+In this hand-crafted version of the retro classic Snake the marvelous journey of the player starts in a minimalistic pixel art homescreen. There he has the opportunity to choose between playing a game or leaving the program (why tho?). In addition to the standard Snake ruleset we included some more functionalities to add some spice to the game and increase the fun factor. With every collected fruit the snake becomes faster and faster. Only well experienced players are able to collect all thirty fruits and win this nerve-wracking game. The head of the snake points to the right side at the beginning of each round. Moving into the opposite direction of your current one will lead to death (snakes cannot move into their own throat).  
+
+### Key Assignment
+
+`SPACEBAR` & `X` Menu controls  
+  
+`W` Move up  
+  
+`A` Move left  
+  
+`S` Move down  
+  
+`D` Move right  
+
 ### How to run
 
 Setup for your RARS environment to run our program:
@@ -95,6 +106,9 @@ src/unittest/unittest_grow.asm # test for grow_snake.asm
 
 src/unittest/unittest_verification.asm # test for verification.asm
 
+src/unittest/unittest_turn.asm # test for turn.asm
+
+
 ## Tests :fire_extinguisher:	
 
 Expected console ouptput:
@@ -120,3 +134,7 @@ Expected console ouptput:
 ### unittest_verification
 
 ![unittest_verification](https://user-images.githubusercontent.com/81292206/140542393-69bc8718-3bae-44bc-b5df-0873e1137b43.png)
+
+### unittest_turn
+
+![unittest_turn](https://user-images.githubusercontent.com/81292206/140548295-cc6ee741-3632-42c3-8ac7-998b97bdccf9.png)
