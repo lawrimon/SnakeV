@@ -14,7 +14,8 @@ Replace -h3eH4ubuno in the this .md by your YT video
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+In this hand-crafted version of the retro classic Snake the marvelous journey of the player starts in a minimalistic pixel art homescreen. There he has the opportunity to choose between playing a game or leaving the program (why tho?). In addition to the standard Snake ruleset we included some more functionalities to add some spice to the game and increase the fun factor. With every collected fruit your snake becomes faster and faster. Only well experienced players have the capability to collect all thirty fruits and win this nerve-wracking game. The WASD-keys are used for movement and the head of snake points to right side at the beginning of each round. Moving into the opposite direction of your current way will lead to death (snakes cannot move into their own throat). 
+ 
 
 ### How to run
 
