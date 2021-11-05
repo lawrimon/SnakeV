@@ -22,24 +22,28 @@ In this hand-crafted version of the retro classic Snake the marvelous journey of
 
 ### Key Assignment
 
-`SPACEBAR` & `X` Menu controls  
+`SPACEBAR` & `X`: Menu controls  
   
-`W` Move up  
+`W`: Move up  
   
-`A` Move left  
+`A`: Move left  
   
-`S` Move down  
+`S`: Move down  
   
-`D` Move right  
+`D`: Move right  
 
 ### How to run
 
 Setup for your RARS environment to run our program:
 
 :one:	Open the terminal in the src-directory and run RARS from there  
+  
 :two:	Open and assemble src/main.asm in RARS  
+  
 :three:	Connect the bitmap display and keyboard to the program  
+  
 :four:	Set the display address to 0x10040000 (heap) and its size to 512x512  
+  
 :five:	Run the program and have fun :)
 
 ## Files 	:file_folder:	
