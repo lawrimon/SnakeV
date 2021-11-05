@@ -16,6 +16,8 @@ Recreation of the retro game Snake in RISC-V Assembly :desktop_computer:
 
 ### Presentation Video
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/WpIAXO0PboY/0.jpg)](https://www.youtube.com/watch?v=WpIAXO0PboY "SnakeV Presentation")
+
 ## Description :books:	
 
 In this hand-crafted version of the retro classic Snake the marvelous journey of the player starts in a minimalistic pixel art homescreen. There he has the opportunity to choose between playing a game or leaving the program (why tho?). In addition to the standard Snake ruleset we included some more functionalities to add some spice to the game and increase the fun factor. With every collected fruit the snake becomes faster and faster. Only well experienced players are able to collect all thirty fruits and win this nerve-wracking game. The head of the snake points to the right side at the beginning of each round. Moving into the opposite direction of your current one will lead to death (snakes cannot move into their own throat).  
