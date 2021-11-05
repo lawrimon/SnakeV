@@ -92,6 +92,10 @@ src/unittest/unittest_grow.asm # test for grow_snake.asm
 
 ## Test
 
+Expected console ouptput:
+- program is finished running ( 5 ) --> Test succeeded   
+- program is finished running (10) --> Test failed
+
 ### unittest_loadbmp
 
 ![unittest_loadbmp](https://user-images.githubusercontent.com/81292206/140516270-c372702c-664e-4f9a-837d-61d876522a5d.png)
