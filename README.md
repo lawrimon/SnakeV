@@ -86,9 +86,9 @@ src/unittest/unittest_loadbmp.asm # test for load_bmp.asm
 
 src/unittest/unittest_readwordunaligned.asm # test for readwordunaligned.asm
 
-src/unittest/unittest_grow.asm # test for grow_snake.asm
-
 src/unittest/unittest_fruit.asm # test for fruit.asm
+
+src/unittest/unittest_grow.asm # test for grow_snake.asm
 
 ## Test
 
@@ -100,5 +100,8 @@ src/unittest/unittest_fruit.asm # test for fruit.asm
 
 ![unittest_readwordunaligned](https://user-images.githubusercontent.com/81292206/140516452-2dc7ab6b-2513-47cf-bff7-469f84ca6ee2.png)
 
-### unittest_grow
+### unittest_fruit
 
+![unittest_fruit](https://user-images.githubusercontent.com/81292206/140531099-5b545999-1407-4a1f-8367-71e1a273e010.png)
+
+### unittest_grow
