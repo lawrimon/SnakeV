@@ -16,7 +16,7 @@ Recreation of the retro game Snake in RISC-V Assembly.
 
 ### Presentation Video
 
-## Description
+## Description :books:	
 
 In this hand-crafted version of the retro classic Snake the marvelous journey of the player starts in a minimalistic pixel art homescreen. There he has the opportunity to choose between playing a game or leaving the program (why tho?).  
 In addition to the standard Snake ruleset we included some more functionalities to add some spice to the game and increase the fun factor. With every collected fruit the snake becomes faster and faster. Only well experienced players have the capability to collect all thirty fruits and win this nerve-wracking game.  
@@ -32,7 +32,7 @@ Setup for your RARS environment to run our program:
 :four:	Set the display address to 0x10040000 (heap) and its size to 512x512  
 :five:	Run the program and have fun :)
 
-## Files
+## Files 	:file_folder:	
 
 Description of the content of each file of our application:
 
@@ -96,7 +96,7 @@ src/unittest/unittest_grow.asm # test for grow_snake.asm
 
 src/unittest/unittest_verification.asm # test for verification.asm
 
-## Test
+## Tests :fire_extinguisher:	
 
 Expected console ouptput:
 - program is finished running ( 5 ) --> Test succeeded   
