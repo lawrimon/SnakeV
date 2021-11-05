@@ -14,8 +14,6 @@ Recreation of the retro game Snake in RISC-V Assembly.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/lU9VKJT4uNE/0.jpg)](https://www.youtube.com/watch?v=lU9VKJT4uNE "SnakeV Demo")
 
-Replace -h3eH4ubuno in the this .md by your YT video
-
 ### Presentation Video
 
 ## Description
