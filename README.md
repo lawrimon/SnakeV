@@ -92,6 +92,8 @@ src/unittest/unittest_fruit.asm # test for fruit.asm
 
 src/unittest/unittest_grow.asm # test for grow_snake.asm
 
+src/unittest/unittest_verification.asm # test for verification.asm
+
 ## Test
 
 Expected console ouptput:
