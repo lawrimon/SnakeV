@@ -115,7 +115,8 @@ Description of the content of each file of our application:
 
 ## Tests :fire_extinguisher:	
 
-Expected console ouptput:  
+### Expected Console Output  
+
 :heavy_check_mark: program is finished running (5)     
 :x: program is finished running (10) 	
 
