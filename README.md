@@ -1,14 +1,14 @@
-# SnakeV
+# SnakeV :snake:	
 
 Recreation of the retro game Snake in RISC-V Assembly.
 
-## Authors
+## Authors :family_man_man_boy:	
 
-- Gregor Boschmann
-- Laurin Tarta
-- Max Kiefer
+:man_scientist: Gregor Boschmann  
+:man_technologist: Laurin Tarta  
+:man_artist: Max Kiefer
 
-## Media
+## Media :movie_camera:	
 
 ### Demo Video
 
@@ -18,17 +18,19 @@ Recreation of the retro game Snake in RISC-V Assembly.
 
 ## Description
 
-In this hand-crafted version of the retro classic Snake the marvelous journey of the player starts in a minimalistic pixel art homescreen. There he has the opportunity to choose between playing a game or leaving the program (why tho?). In addition to the standard Snake ruleset we included some more functionalities to add some spice to the game and increase the fun factor. With every collected fruit the snake becomes faster and faster. Only well experienced players have the capability to collect all thirty fruits and win this nerve-wracking game. `w` `a` `s` `d` are used for movement and the head of the snake points to the right side at the beginning of each round. Moving into the opposite direction of your current one will lead to death (snakes cannot move into their own throat). 
+In this hand-crafted version of the retro classic Snake the marvelous journey of the player starts in a minimalistic pixel art homescreen. There he has the opportunity to choose between playing a game or leaving the program (why tho?).  
+In addition to the standard Snake ruleset we included some more functionalities to add some spice to the game and increase the fun factor. With every collected fruit the snake becomes faster and faster. Only well experienced players have the capability to collect all thirty fruits and win this nerve-wracking game.  
+`W` `A` `S` `D` are used for movement and the head of the snake points to the right side at the beginning of each round. Moving into the opposite direction of your current one will lead to death (snakes cannot move into their own throat). 
  
 ### How to run
 
 Setup for your RARS environment to run our program:
 
-- Open the terminal in the src-directory and run RARS from there
-- Open and assemble src/main.asm in RARS
-- Connect the bitmap display and keyboard to the program
-- Set the display address to 0x10040000 (heap) and its size to 512x512
-- Run the program and have fun :)
+:one:	Open the terminal in the src-directory and run RARS from there  
+:two:	Open and assemble src/main.asm in RARS  
+:three:	Connect the bitmap display and keyboard to the program  
+:four:	Set the display address to 0x10040000 (heap) and its size to 512x512  
+:five:	Run the program and have fun :)
 
 ## Files
 
